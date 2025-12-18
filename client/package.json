@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "axios": "1.13.2",
+    "lodash-es": "^4.17.22",
+    "pinia": "3.0.4",
+    "sharp": "^0.33.0",
+    "multer": "^1.4.5-lts.1",
+    "vue": "^3.5.24",
+    "vue-axios": "3.5.2",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.2.2"
+  }
+}
